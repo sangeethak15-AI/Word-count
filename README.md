@@ -20,6 +20,8 @@ End the program.
 
 ## PROGRAM:
 ```
+##DEVELOPED BY: Sangeetha.K
+##REGISTER NUMBER: 212221230085
 num_words = 0
 with open('text.txt','r') as file1:
    for i in file1:
